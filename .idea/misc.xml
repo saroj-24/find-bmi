@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/drawable/buttonshape.xml" value="0.194" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/drawable/femalefocus.xml" value="0.2155" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/drawable/malebackground.xml" value="0.1755" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/drawable/malefemalefocus.xml" value="0.1755" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/drawable/malefemalenotfocus.xml" value="0.1755" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/font/font.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/layout/activity_bmi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/KIIT/AndroidStudioProjects/findBmi/app/src/main/res/layout/activity_splashscreen.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
